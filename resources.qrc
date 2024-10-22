@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/alai_primo" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
