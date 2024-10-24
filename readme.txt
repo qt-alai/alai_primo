@@ -1,3 +1,6 @@
+* Hi Regina - OSGeo UserID Mantra
+
+
 Plugin Builder Results
 
 Your plugin AlaiPrimo was created in:
