@@ -1,2 +1,4 @@
-* Qgis Plugin 
-* HI Regina from OSWgeo
+## Qgis Plugin 
+## HI **Regina** from OSWgeo
+
+This plugin does nothing
